@@ -1,13 +1,13 @@
 {
   "name": "backend-care",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./src/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Zulfiqri Akbar",
   "license": "ISC",
   "description": "",
   "dependencies": {
